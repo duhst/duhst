@@ -1,7 +1,7 @@
 # Hi there 👋
 
 <!--
-**duhst/duhst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**kloudid/kloudid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 💨 I'm duhst
+- 💨 I'm kloudid
